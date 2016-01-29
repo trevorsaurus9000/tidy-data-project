@@ -89,4 +89,7 @@ run_analysis <- function() {
         ##Creates a second, independent tidy data set with the average of each variable for each activity and each subject
         tidySet <- mergedSet
         tidySet %>% group_by(subject.id,activity) %>% summarize_each(funs(mean(.,na.rm=TRUE)))
+        
+        ##Lets persist the data, just for fun
+        write.csv(tidySet,"./tidyDataSet.csv")
 }
