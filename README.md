@@ -20,6 +20,7 @@ This project includes the code necessary to convert the University of California
 Our tidy dataset includes the following files:
 
 - 'README.txt'
+- 'run_analysis.R': An independent script that convert's the UCI HAR dataset into a tidy dataset
 - 'tidyDataSet.csv': A tidy data set generated from the UCI HAR dataset
 - 'CODE BOOK.md': A description of the variables found in tidyDataSet.csv
 - 'INSTRUCTION LIST.md': Instructions on how to recreate tidyDataSet.csv using only this project
