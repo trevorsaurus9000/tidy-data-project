@@ -2,7 +2,7 @@
 
 ## Feature Descriptions
 
-| Tidy Feature Name | Original Feature Name | Description | Units |
+| Tidy Variable Name | Original Variable Name | Description | Units |
 | ------------- | ------------- | --------------------- | ------------- |
 |	subject.id	|	N/A	|	The id of the subject being measured.  Ranges from 1 to 30	|	N/A	|
 | activity	|	N/A	|	The activity being performed by the subject at the time of measurement	|	N/A	|
