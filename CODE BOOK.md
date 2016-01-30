@@ -97,7 +97,7 @@
 
 The complete list of variables of each feature vector can be found in 'features.txt'
 
-The complete feature selection process is available can be found in 'features_info.txt'
+The complete feature selection process can be found in 'features_info.txt'
 
 # Study Design
 
