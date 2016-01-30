@@ -24,6 +24,7 @@ Our tidy dataset includes the following files:
 - 'tidyDataSet.csv': A tidy data set generated from the UCI HAR dataset
 - 'CODE BOOK.md': A description of the variables found in tidyDataSet.csv
 - 'INSTRUCTION LIST.md': Instructions on how to recreate tidyDataSet.csv using only this project
+- '.gitignore': Github instructions NOT to include the .zip file when the project is being pushed
 
 Information about UCI's raw data set can be found in: /data/UCI HAR Dataset/README.txt
 
