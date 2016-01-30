@@ -1,5 +1,6 @@
 # Getting and Cleaning Data Course Project
 Trevor Harris
+
 January 29th, 2016
 
 ## Synopsis
