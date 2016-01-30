@@ -1,6 +1,6 @@
 #Instruction List
 
-To recreate tidyDataSet.csv, perform the following steps (assumes basic GitHub, Git and R skills):
+To recreate tidyDataSet.csv and tidyDataSet.txt, perform the following steps (assumes basic GitHub, Git and R skills):
 
 1. Clone repo https://github.com/trevorsaurus9000/tidy-data-project.git to local.
 2. Open RStudio.
